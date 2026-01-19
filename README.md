@@ -1,4 +1,4 @@
-# CS2-KD-Regression
+# CS2-KD-Predict
 # 🎯 CS 战绩回归预测（KD 预测）
 
 ## 一、项目简介
