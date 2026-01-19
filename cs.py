@@ -31,8 +31,8 @@ HEADLESS = False     # True=无头模式，False=显示浏览器
 FETCH_INTERVAL = 300
 MAX_MATCHES = 50  # 保留最新比赛条数
 
-TARGET_PLAYER = "月生夜夜"  # 玩家昵称
-TARGET_STEAMID = "76561199764696725"  # 玩家 SteamID64
+TARGET_PLAYER = "玩家名称"  
+TARGET_STEAMID = "玩家 SteamID64"  
 MATCH_HISTORY_TAB = "matchhistorypremier"  # 可改为 matchhistory 或 matchhistorypremier
 
 SCREENSHOT_DIR = "screenshots"  # 抓取失败截图保存目录
@@ -711,3 +711,4 @@ def main():
 
 if __name__=="__main__":
     main()
+
